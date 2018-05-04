@@ -13,7 +13,7 @@ ReFrame handlers for [IPFS library](https://github.com/district0x/cljs-ipfs-nati
 ```clojure
 (ns my.app.handlers
   (:require 
-  [district0x.re-frame-ipfs-fx.ipfs-fx :as core]))
+  [district0x.re-frame.ipfs-fx :as core]))
 ```
 
 ## Usage
